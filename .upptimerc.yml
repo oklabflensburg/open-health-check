@@ -3,63 +3,82 @@ repo: open-health-check
 
 sites:
   - name: Baumkataster Flensburg
-    url: baumkataster-flensburg.de
+    url: https://baumkataster-flensburg.de
+    icon: https://baumkataster-flensburg.de/favicon.ico
 
   - name: Denkmalschutzliste Flensburg
-    url: denkmalschutz-flensburg.de
+    url: https://denkmalschutz-flensburg.de
+    icon: https://denkmalschutz-flensburg.de/favicon.ico
 
   - name: Kommunalwahlkarte Schleswig-Holstein
-    url: kommunalwahl-schleswig-holstein.de
+    url: https://kommunalwahl-schleswig-holstein.de
+    icon: https://kommunalwahl-schleswig-holstein.de/favicon.ico
 
   - name: Wahllokale Kommunalwahl Schleswig-Holstein
-    url: wahllokale.kommunalwahl-schleswig-holstein.de
+    url: https://wahllokale.kommunalwahl-schleswig-holstein.de
+    icon: https://wahllokale.kommunalwahl-schleswig-holstein.de/favicon.ico
 
   - name: Luftdaten Schleswig-Holstein
-    url: luftdaten.kunstbube.com
+    url: https://luftdaten.kunstbube.com
+    icon: https://luftdaten.kunstbube.com/favicon.ico
 
   - name: Spielplatzkarte Flensburg
-    url: spielplaetze.kunstbube.com
+    url: https://spielplaetze.kunstbube.com
+    icon: https://spielplaetze.kunstbube.com/favicon.ico
 
   - name: Website des OK Lab Flensburg
-    url: oklabflensburg.de
+    url: https://oklabflensburg.de
+    icon: https://oklabflensburg.de/favicon.ico
 
   - name: Daten Schnittstelle des OK Lab Flensburg
-    url: api.oklabflensburg.de
+    url: https://api.oklabflensburg.de
+    icon: https://api.oklabflensburg.de/favicon.ico
 
   - name: Bodennutzungskarte Deutschland
-    url: bodennutzung.oklabflensburg.de
+    url: https://bodennutzung.oklabflensburg.de
+    icon: https://bodennutzung.oklabflensburg.de/favicon.ico
 
   - name: Nahverkehrskarte Flensburg
-    url: nahverkehr.oklabflensburg.de
+    url: https://nahverkehr.oklabflensburg.de
+    icon: https://nahverkehr.oklabflensburg.de/favicon.ico
 
   - name: Recycling Standortkarte Flensburg
-    url: recycling.oklabflensburg.de
+    url: https://recycling.oklabflensburg.de
+    icon: https://recycling.oklabflensburg.de/favicon.ico
 
   - name: Sozialatlas Dashboard Flensburg
-    url: sozialatlas.oklabflensburg.de
+    url: https://sozialatlas.oklabflensburg.de
+    icon: https://sozialatlas.oklabflensburg.de/favicon.ico
 
   - name: Sozialatlas Dashboard Flensburg (Alpha)
-    url: dev.sozialatlas.oklabflensburg.de
+    url: https://dev.sozialatlas.oklabflensburg.de
+    icon: https://dev.sozialatlas.oklabflensburg.de/favicon.ico
 
-  - name: website OK Lab Flensburg
-    url: website.oklabflensburg.de
+  - name: Website OK Lab Flensburg (Beta)
+    url: https://website.oklabflensburg.de
+    icon: https://website.oklabflensburg.de/favicon.ico
 
   - name: Unfallkarte Flensburg
-    url: open-accident-map.de
+    url: https://open-accident-map.de
+    icon: https://open-accident-map.de/favicon.ico
 
   - name: Daten Schnittstelle Unfallkarte Flensburg
-    url: api.open-accident-map.de
+    url: https://api.open-accident-map.de
+    icon: https://api.open-accident-map.de/favicon.ico
 
   - name: Sozialatlas Dashboard Flensburg (Beta)
-    url: dev.sozialatlas-flensburg.de
+    url: https://dev.sozialatlas-flensburg.de
+    icon: https://dev.sozialatlas-flensburg.de/favicon.ico
 
 status-website:
+  name: Status OK Lab Flensburg
   cname: status.oklabflensburg.de
-  baseUrl: /
-  logoUrl: /assets/oklabflensburg_logo_quadrat.png
-  name: OK Lab Flensburg
-  introTitle: "**OK Lab Flensburg** Gruppe von ehrenamtlich Aktiven, die sich für Offene Daten, Freie und Offene Software einsetzten"
-  introMessage: Wir sind eine Gruppe von ehrenamtlich Aktiven, die sich für Offene Daten, Freie und Offene Software und Open Government interessiert. Unser OK Lab setzt sich lokal für eine Verbesserung der Transparenz von Staat und Verwaltungen ein, stößt Projekte zur Bürgerbeteiligung an und sucht den Austausch mit den Verwaltungen, um gemeinsam Lösungen für die Herausforderungen in unserer Region zu finden. Wir treffen uns regelmäßig, um unsere Projekte weiterzuentwickeln.
+  baseurl: /
+  logourl: https://codefor.de/labs/hexagon/CodeFor-flensburg.svg
+  favicon: https://denkmalschutz-flensburg.de/favicon.ico
+  apiBaseUrl: https://api.oklabflensburg.de
+  robotsText: "User-agent: * \n Disallow: /"
+  introMessage: "**OK Lab Flensburg** Gruppe von ehrenamtlich Aktiven, die sich für Offene Daten, Freie und Offene Software einsetzten"
   navbar:
     - title: Status
       href: /
