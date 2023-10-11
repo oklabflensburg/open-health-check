@@ -76,7 +76,6 @@ status-website:
   baseurl: /
   logourl: https://codefor.de/labs/hexagon/CodeFor-flensburg.svg
   favicon: https://denkmalschutz-flensburg.de/favicon.ico
-  apiBaseUrl: https://api.oklabflensburg.de
   robotsText: "User-agent: * \n Disallow: /"
   introMessage: "**OK Lab Flensburg** Gruppe von ehrenamtlich Aktiven, die sich für Offene Daten, Freie und Offene Software einsetzten"
   navbar:
