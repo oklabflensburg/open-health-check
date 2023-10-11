@@ -32,7 +32,7 @@ sites:
 
   - name: Daten Schnittstelle des OK Lab Flensburg
     url: https://api.oklabflensburg.de
-    icon: https://api.oklabflensburg.de/favicon.ico
+    icon: https://api.oklabflensburg.de/static/favicon.ico
 
   - name: Bodennutzungskarte Deutschland
     url: https://bodennutzung.oklabflensburg.de
@@ -50,7 +50,7 @@ sites:
     url: https://sozialatlas.oklabflensburg.de
     icon: https://sozialatlas.oklabflensburg.de/favicon.ico
 
-  - name: Sozialatlas Dashboard Flensburg (Alpha)
+  - name: Sozialatlas Dashboard Flensburg (Beta)
     url: https://dev.sozialatlas.oklabflensburg.de
     icon: https://dev.sozialatlas.oklabflensburg.de/favicon.ico
 
@@ -66,7 +66,7 @@ sites:
     url: https://api.open-accident-map.de
     icon: https://api.open-accident-map.de/favicon.ico
 
-  - name: Sozialatlas Dashboard Flensburg (Beta)
+  - name: Sozialatlas Dashboard Flensburg (Alpha)
     url: https://dev.sozialatlas-flensburg.de
     icon: https://dev.sozialatlas-flensburg.de/favicon.ico
 
