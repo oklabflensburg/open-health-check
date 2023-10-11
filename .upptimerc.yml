@@ -55,7 +55,7 @@ sites:
 
 status-website:
   cname: status.oklabflensburg.de
-  baseUrl: /open-health-check
+  baseUrl: /
   logoUrl: /assets/oklabflensburg_logo_quadrat.png
   name: OK Lab Flensburg
   introTitle: "**OK Lab Flensburg** Gruppe von ehrenamtlich Aktiven, die sich für Offene Daten, Freie und Offene Software einsetzten"
