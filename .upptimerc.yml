@@ -1,31 +1,69 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: oklabflensburg
+repo: open-health-check
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Baumkataster Flensburg
+    url: baumkataster-flensburg.de
+
+  - name: Denkmalschutzliste Flensburg
+    url: denkmalschutz-flensburg.de
+
+  - name: Kommunalwahlkarte Schleswig-Holstein
+    url: kommunalwahl-schleswig-holstein.de
+
+  - name: Wahllokale Kommunalwahl Schleswig-Holstein
+    url: wahllokale.kommunalwahl-schleswig-holstein.de
+
+  - name: Luftdaten Schleswig-Holstein
+    url: luftdaten.kunstbube.com
+
+  - name: Spielplatzkarte Flensburg
+    url: spielplaetze.kunstbube.com
+
+  - name: Website des OK Lab Flensburg
+    url: oklabflensburg.de
+
+  - name: Daten Schnittstelle des OK Lab Flensburg
+    url: api.oklabflensburg.de
+
+  - name: Bodennutzungskarte Deutschland
+    url: bodennutzung.oklabflensburg.de
+
+  - name: Nahverkehrskarte Flensburg
+    url: nahverkehr.oklabflensburg.de
+
+  - name: Recycling Standortkarte Flensburg
+    url: recycling.oklabflensburg.de
+
+  - name: Sozialatlas Dashboard Flensburg
+    url: sozialatlas.oklabflensburg.de
+
+  - name: Sozialatlas Dashboard Flensburg (Alpha)
+    url: dev.sozialatlas.oklabflensburg.de
+
+  - name: website OK Lab Flensburg
+    url: website.oklabflensburg.de
+
+  - name: Unfallkarte Flensburg
+    url: open-accident-map.de
+
+  - name: Daten Schnittstelle Unfallkarte Flensburg
+    url: api.open-accident-map.de
+
+  - name: Sozialatlas Dashboard Flensburg (Beta)
+    url: dev.sozialatlas-flensburg.de
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://github.com/oklabflensburg/.github/blob/main/resources/oklabflensburg_logo_quadrat.png
+  name: OK Lab Flensburg
+  introTitle: "**OK Lab Flensburg** Gruppe von ehrenamtlich Aktiven, die sich für Offene Daten, Freie und Offene Software einsetzten"
+  introMessage: Wir sind eine Gruppe von ehrenamtlich Aktiven, die sich für Offene Daten, Freie und Offene Software und Open Government interessiert. Unser OK Lab setzt sich lokal für eine Verbesserung der Transparenz von Staat und Verwaltungen ein, stößt Projekte zur Bürgerbeteiligung an und sucht den Austausch mit den Verwaltungen, um gemeinsam Lösungen für die Herausforderungen in unserer Region zu finden. Wir treffen uns regelmäßig, um unsere Projekte weiterzuentwickeln.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
