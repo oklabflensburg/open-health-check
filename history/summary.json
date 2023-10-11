@@ -223,19 +223,17 @@
     "icon": "https://dev.sozialatlas.oklabflensburg.de/favicon.ico",
     "slug": "sozialatlas-dashboard-flensburg-beta",
     "status": "up",
-    "uptime": "98.20%",
-    "uptimeDay": "98.20%",
-    "uptimeWeek": "98.20%",
-    "uptimeMonth": "98.20%",
-    "uptimeYear": "98.20%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 950,
     "timeDay": 950,
     "timeWeek": 950,
     "timeMonth": 950,
     "timeYear": 950,
-    "dailyMinutesDown": {
-      "2023-10-11": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Website OK Lab Flensburg (Beta)",
