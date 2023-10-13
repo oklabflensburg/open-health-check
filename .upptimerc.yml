@@ -63,8 +63,8 @@ sites:
     icon: https://open-accident-map.de/favicon.ico
 
   - name: Daten Schnittstelle Unfallkarte Flensburg
-    url: https://api.open-accident-map.de
-    icon: https://api.open-accident-map.de/favicon.ico
+    url: https://api.oklabflensburg.de/accidents/v1/details
+    icon: https://api.oklabflensburg.de/static/favicon.ico
 
   - name: Sozialatlas Dashboard Flensburg (Alpha)
     url: https://dev.sozialatlas-flensburg.de
