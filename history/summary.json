@@ -88,7 +88,7 @@
     "timeMonth": 271,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2023-10-13": 19,
+      "2023-10-13": 1057,
       "2023-10-12": 1440,
       "2023-10-11": 281
     }
@@ -134,18 +134,20 @@
     "url": "https://api.oklabflensburg.de",
     "icon": "https://api.oklabflensburg.de/static/favicon.ico",
     "slug": "daten-schnittstelle-des-ok-lab-flensburg",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 723,
-    "timeDay": 485,
-    "timeWeek": 723,
-    "timeMonth": 723,
-    "timeYear": 723,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 703,
+    "timeDay": 494,
+    "timeWeek": 703,
+    "timeMonth": 703,
+    "timeYear": 703,
+    "dailyMinutesDown": {
+      "2023-10-13": 0
+    }
   },
   {
     "name": "Bodennutzungskarte Deutschland",
@@ -290,7 +292,7 @@
     "timeMonth": 618,
     "timeYear": 618,
     "dailyMinutesDown": {
-      "2023-10-13": 19,
+      "2023-10-13": 1057,
       "2023-10-12": 1440,
       "2023-10-11": 281
     }
