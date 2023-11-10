@@ -23,8 +23,8 @@ sites:
     icon: https://luftdaten.kunstbube.com/favicon.ico
 
   - name: Spielplatzkarte Flensburg
-    url: https://spielplaetze.kunstbube.com
-    icon: https://spielplaetze.kunstbube.com/favicon.ico
+    url: https://spielplatzkarte.oklabflensburg.de
+    icon: https://spielplatzkarte.oklabflensburg.de/favicon.ico
 
   - name: Website des OK Lab Flensburg
     url: https://oklabflensburg.de
