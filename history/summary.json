@@ -6,7 +6,7 @@
     "slug": "baumkataster-flensburg",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 491,
     "timeMonth": 616,
     "timeYear": 604,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-16": 0
+    }
   },
   {
     "name": "Denkmalschutzliste Flensburg",
@@ -88,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2023-11-16": 20,
+      "2023-11-16": 25,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
