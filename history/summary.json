@@ -4,19 +4,19 @@
     "url": "https://baumkataster-flensburg.de",
     "icon": "https://baumkataster-flensburg.de/favicon.ico",
     "slug": "baumkataster-flensburg",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 604,
     "timeDay": 471,
     "timeWeek": 491,
     "timeMonth": 616,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2023-11-16": 0
+      "2023-11-16": 19
     }
   },
   {
@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2023-11-16": 25,
+      "2023-11-16": 45,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
