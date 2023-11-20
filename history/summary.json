@@ -97,7 +97,7 @@
     "timeMonth": 0,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2023-11-20": 20,
+      "2023-11-20": 187,
       "2023-11-19": 1440,
       "2023-11-18": 1440,
       "2023-11-17": 1440,
@@ -165,9 +165,9 @@
     "url": "https://oklabflensburg.de",
     "icon": "https://oklabflensburg.de/favicon.ico",
     "slug": "website-des-ok-lab-flensburg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -176,7 +176,9 @@
     "timeWeek": 1243,
     "timeMonth": 1390,
     "timeYear": 1300,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-20": 0
+    }
   },
   {
     "name": "Daten Schnittstelle des OK Lab Flensburg",
@@ -344,11 +346,11 @@
     "icon": "https://api.oklabflensburg.de/static/favicon.ico",
     "slug": "daten-schnittstelle-unfallkarte-flensburg",
     "status": "up",
-    "uptime": "94.96%",
+    "uptime": "94.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "94.96%",
+    "uptimeYear": "94.97%",
     "time": 411,
     "timeDay": 298,
     "timeWeek": 386,
