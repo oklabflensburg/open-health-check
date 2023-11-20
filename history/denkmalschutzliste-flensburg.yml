@@ -1,7 +1,7 @@
 url: https://denkmalschutz-flensburg.de
-status: up
-code: 200
-responseTime: 393
-lastUpdated: 2023-11-19T23:05:20.730Z
+status: down
+code: 500
+responseTime: 414
+lastUpdated: 2023-11-20T04:27:59.513Z
 startTime: 2023-10-11T19:20:56.142Z
 generator: Upptime <https://github.com/upptime/upptime>
