@@ -97,7 +97,7 @@
     "timeMonth": 0,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2023-11-26": 1214,
+      "2023-11-26": 1221,
       "2023-11-25": 1440,
       "2023-11-24": 1440,
       "2023-11-23": 1440,
@@ -171,19 +171,19 @@
     "url": "https://oklabflensburg.de",
     "icon": "https://oklabflensburg.de/favicon.ico",
     "slug": "website-des-ok-lab-flensburg",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1963,
-    "timeDay": 8122,
-    "timeWeek": 4411,
-    "timeMonth": 2479,
-    "timeYear": 1963,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1953,
+    "timeDay": 5841,
+    "timeWeek": 4202,
+    "timeMonth": 2449,
+    "timeYear": 1953,
     "dailyMinutesDown": {
-      "2023-11-26": 0
+      "2023-11-26": 7
     }
   },
   {
