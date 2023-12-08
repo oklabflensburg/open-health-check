@@ -2,6 +2,10 @@ owner: oklabflensburg
 repo: open-health-check
 
 sites:
+  - name: Kitafinder Flensburg
+    url: https://kitafinder.oklabflensburg.de
+    icon: https://kitafinder.oklabflensburg.de/favicon.ico
+
   - name: Baumkataster Flensburg
     url: https://baumkataster-flensburg.de
     icon: https://baumkataster-flensburg.de/favicon.ico
