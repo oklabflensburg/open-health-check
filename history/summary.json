@@ -115,7 +115,7 @@
     "timeMonth": 0,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2023-12-11": 1,
+      "2023-12-11": 21,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
@@ -205,20 +205,17 @@
     "icon": "https://oklabflensburg.de/favicon.ico",
     "slug": "website-des-ok-lab-flensburg",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2995,
     "timeDay": 3030,
     "timeWeek": 5839,
     "timeMonth": 4309,
     "timeYear": 2995,
-    "dailyMinutesDown": {
-      "2023-12-11": 1,
-      "2023-12-10": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Daten Schnittstelle des OK Lab Flensburg",
