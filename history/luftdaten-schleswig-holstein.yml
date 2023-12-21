@@ -1,7 +1,7 @@
 url: https://luftdaten.kunstbube.com
-status: down
-code: 502
-responseTime: 7782
-lastUpdated: 2023-12-21T21:40:09.501Z
+status: up
+code: 200
+responseTime: 4022
+lastUpdated: 2023-12-21T21:46:11.892Z
 startTime: 2023-10-11T19:20:59.350Z
 generator: Upptime <https://github.com/upptime/upptime>
