@@ -2,6 +2,10 @@ owner: oklabflensburg
 repo: open-health-check
 
 sites:
+  - name: Schulen in Flensburg
+    url: https://schulen.oklabflensburg.de
+    icon: https://schulen.oklabflensburg.de/favicon.ico
+
   - name: Kitafinder Flensburg
     url: https://kitafinder.oklabflensburg.de
     icon: https://kitafinder.oklabflensburg.de/favicon.ico
