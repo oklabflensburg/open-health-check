@@ -4,40 +4,36 @@
     "url": "https://schulen.oklabflensburg.de",
     "icon": "https://schulen.oklabflensburg.de/favicon.ico",
     "slug": "schulen-in-flensburg",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-01-22": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Kitafinder Flensburg",
     "url": "https://kitafinder.oklabflensburg.de",
     "icon": "https://kitafinder.oklabflensburg.de/favicon.ico",
     "slug": "kitafinder-flensburg",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 464,
-    "timeDay": 372,
-    "timeWeek": 439,
-    "timeMonth": 476,
-    "timeYear": 464,
-    "dailyMinutesDown": {
-      "2024-01-22": 9
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 460,
+    "timeDay": 377,
+    "timeWeek": 436,
+    "timeMonth": 466,
+    "timeYear": 460,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Baumkataster Flensburg",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 526,
-    "timeDay": 365,
-    "timeWeek": 466,
-    "timeMonth": 485,
-    "timeYear": 526,
+    "time": 524,
+    "timeDay": 392,
+    "timeWeek": 460,
+    "timeMonth": 479,
+    "timeYear": 524,
     "dailyMinutesDown": {
       "2023-11-18": 38,
       "2023-11-16": 19
@@ -71,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 489,
-    "timeDay": 392,
-    "timeWeek": 464,
-    "timeMonth": 491,
-    "timeYear": 489,
+    "time": 488,
+    "timeDay": 393,
+    "timeWeek": 455,
+    "timeMonth": 484,
+    "timeYear": 488,
     "dailyMinutesDown": {
       "2023-11-18": 37
     }
@@ -91,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 482,
-    "timeDay": 374,
-    "timeWeek": 461,
-    "timeMonth": 479,
-    "timeYear": 482,
+    "time": 481,
+    "timeDay": 417,
+    "timeWeek": 455,
+    "timeMonth": 474,
+    "timeYear": 481,
     "dailyMinutesDown": {
       "2023-11-18": 37
     }
@@ -112,9 +108,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 475,
-    "timeDay": 359,
-    "timeWeek": 426,
-    "timeMonth": 472,
+    "timeDay": 377,
+    "timeWeek": 416,
+    "timeMonth": 469,
     "timeYear": 475,
     "dailyMinutesDown": {
       "2023-11-18": 36
@@ -126,18 +122,19 @@
     "icon": "https://luftdaten.kunstbube.com/favicon.ico",
     "slug": "luftdaten-schleswig-holstein",
     "status": "down",
-    "uptime": "19.77%",
+    "uptime": "19.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "40.74%",
-    "uptimeYear": "19.77%",
+    "uptimeMonth": "39.18%",
+    "uptimeYear": "19.68%",
     "time": 4891,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 2115,
+    "timeMonth": 729,
     "timeYear": 4891,
     "dailyMinutesDown": {
-      "2024-01-22": 778,
+      "2024-01-23": 21,
+      "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
@@ -235,11 +232,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 445,
-    "timeDay": 314,
-    "timeWeek": 441,
-    "timeMonth": 464,
-    "timeYear": 445,
+    "time": 444,
+    "timeDay": 387,
+    "timeWeek": 445,
+    "timeMonth": 461,
+    "timeYear": 444,
     "dailyMinutesDown": {
       "2023-11-18": 36
     }
@@ -255,11 +252,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.28%",
-    "time": 2588,
-    "timeDay": 1098,
-    "timeWeek": 1145,
-    "timeMonth": 1136,
-    "timeYear": 2588,
+    "time": 2578,
+    "timeDay": 1082,
+    "timeWeek": 1128,
+    "timeMonth": 1128,
+    "timeYear": 2578,
     "dailyMinutesDown": {
       "2023-12-17": 894,
       "2023-12-16": 1440,
@@ -277,11 +274,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 576,
-    "timeDay": 467,
-    "timeWeek": 510,
-    "timeMonth": 555,
-    "timeYear": 576,
+    "time": 575,
+    "timeDay": 492,
+    "timeWeek": 515,
+    "timeMonth": 552,
+    "timeYear": 575,
     "dailyMinutesDown": {
       "2023-11-18": 35
     }
@@ -297,11 +294,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 452,
-    "timeDay": 281,
-    "timeWeek": 378,
-    "timeMonth": 428,
-    "timeYear": 452,
+    "time": 451,
+    "timeDay": 393,
+    "timeWeek": 386,
+    "timeMonth": 426,
+    "timeYear": 451,
     "dailyMinutesDown": {
       "2023-11-18": 35
     }
@@ -318,9 +315,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 443,
-    "timeDay": 389,
-    "timeWeek": 393,
-    "timeMonth": 431,
+    "timeDay": 392,
+    "timeWeek": 400,
+    "timeMonth": 425,
     "timeYear": 443,
     "dailyMinutesDown": {
       "2023-11-18": 34
@@ -337,11 +334,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 427,
-    "timeDay": 374,
-    "timeWeek": 377,
-    "timeMonth": 402,
-    "timeYear": 427,
+    "time": 426,
+    "timeDay": 295,
+    "timeWeek": 370,
+    "timeMonth": 397,
+    "timeYear": 426,
     "dailyMinutesDown": {
       "2023-11-18": 34
     }
@@ -357,11 +354,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 424,
-    "timeDay": 366,
-    "timeWeek": 358,
-    "timeMonth": 409,
-    "timeYear": 424,
+    "time": 423,
+    "timeDay": 384,
+    "timeWeek": 365,
+    "timeMonth": 407,
+    "timeYear": 423,
     "dailyMinutesDown": {
       "2023-11-18": 33
     }
@@ -377,11 +374,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 461,
+    "time": 460,
     "timeDay": 393,
-    "timeWeek": 418,
-    "timeMonth": 417,
-    "timeYear": 461,
+    "timeWeek": 426,
+    "timeMonth": 415,
+    "timeYear": 460,
     "dailyMinutesDown": {
       "2023-11-18": 33
     }
@@ -397,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 521,
-    "timeDay": 463,
-    "timeWeek": 513,
-    "timeMonth": 537,
-    "timeYear": 521,
+    "time": 520,
+    "timeDay": 397,
+    "timeWeek": 506,
+    "timeMonth": 531,
+    "timeYear": 520,
     "dailyMinutesDown": {
       "2023-11-18": 32
     }
@@ -417,11 +414,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 499,
-    "timeDay": 306,
-    "timeWeek": 455,
-    "timeMonth": 483,
-    "timeYear": 499,
+    "time": 498,
+    "timeDay": 392,
+    "timeWeek": 446,
+    "timeMonth": 477,
+    "timeYear": 498,
     "dailyMinutesDown": {
       "2023-11-18": 32
     }
@@ -437,11 +434,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.08%",
-    "time": 375,
-    "timeDay": 277,
-    "timeWeek": 345,
-    "timeMonth": 363,
-    "timeYear": 375,
+    "time": 374,
+    "timeDay": 288,
+    "timeWeek": 338,
+    "timeMonth": 358,
+    "timeYear": 374,
     "dailyMinutesDown": {
       "2023-11-18": 31,
       "2023-10-13": 1095,
@@ -460,11 +457,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 813,
-    "timeDay": 658,
-    "timeWeek": 820,
-    "timeMonth": 862,
-    "timeYear": 813,
+    "time": 812,
+    "timeDay": 689,
+    "timeWeek": 808,
+    "timeMonth": 850,
+    "timeYear": 812,
     "dailyMinutesDown": {
       "2023-11-18": 31
     }
