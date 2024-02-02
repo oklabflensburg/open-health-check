@@ -4,19 +4,19 @@
     "url": "https://schulen.oklabflensburg.de",
     "icon": "https://schulen.oklabflensburg.de/favicon.ico",
     "slug": "schulen-in-flensburg",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-02": 0
+      "2024-02-02": 7
     }
   },
   {
@@ -127,7 +127,7 @@
     "uptime": "17.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.60%",
+    "uptimeMonth": "4.58%",
     "uptimeYear": "17.86%",
     "time": 4891,
     "timeDay": 0,
@@ -135,7 +135,7 @@
     "timeMonth": 755,
     "timeYear": 4891,
     "dailyMinutesDown": {
-      "2024-02-02": 771,
+      "2024-02-02": 778,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 1440,
