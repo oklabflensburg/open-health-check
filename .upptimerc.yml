@@ -3,12 +3,12 @@ repo: open-health-check
 
 sites:
   - name: Schulen in Flensburg
-    url: https://schulen.oklabflensburg.de
-    icon: https://schulen.oklabflensburg.de/favicon.ico
+    url: https://schulen-in-flensburg.de
+    icon: https://schulen-in-flensburg.de/favicon.ico
 
   - name: Kitafinder Flensburg
-    url: https://kitafinder.oklabflensburg.de
-    icon: https://kitafinder.oklabflensburg.de/favicon.ico
+    url: https://kitas-in-flensburg.de
+    icon: https://kitas-in-flensburg.de/favicon.ico
 
   - name: Baumkataster Flensburg
     url: https://baumkataster-flensburg.de
@@ -25,10 +25,6 @@ sites:
   - name: Wahllokale Kommunalwahl Schleswig-Holstein
     url: https://wahllokale.kommunalwahl-schleswig-holstein.de
     icon: https://wahllokale.kommunalwahl-schleswig-holstein.de/favicon.ico
-
-  - name: Luftdaten Schleswig-Holstein
-    url: https://luftdaten.kunstbube.com
-    icon: https://luftdaten.kunstbube.com/favicon.ico
 
   - name: Spielplatzkarte Flensburg
     url: https://spielplatzkarte.oklabflensburg.de
@@ -47,8 +43,8 @@ sites:
     icon: https://bodennutzung.oklabflensburg.de/favicon.ico
 
   - name: Nahverkehrskarte Flensburg
-    url: https://nahverkehr.oklabflensburg.de
-    icon: https://nahverkehr.oklabflensburg.de/favicon.ico
+    url: https://nahverkehr-flensburg.de
+    icon: https://nahverkehr-flensburg.de/favicon.ico
 
   - name: Recycling Standortkarte Flensburg
     url: https://recycling.oklabflensburg.de
