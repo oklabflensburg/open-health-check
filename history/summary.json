@@ -5,19 +5,17 @@
     "icon": "https://schulen-in-flensburg.de/favicon.ico",
     "slug": "schulen-in-flensburg",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-02-04": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Kitafinder Flensburg",
@@ -25,19 +23,17 @@
     "icon": "https://kitas-in-flensburg.de/favicon.ico",
     "slug": "kitafinder-flensburg",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 464,
     "timeDay": 382,
     "timeWeek": 464,
     "timeMonth": 464,
     "timeYear": 464,
-    "dailyMinutesDown": {
-      "2024-02-04": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Baumkataster Flensburg",
@@ -209,9 +205,9 @@
     "slug": "nahverkehrskarte-flensburg",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 440,
     "timeDay": 334,
@@ -219,7 +215,6 @@
     "timeMonth": 420,
     "timeYear": 440,
     "dailyMinutesDown": {
-      "2024-02-04": 5,
       "2023-11-18": 34
     }
   },
