@@ -2,6 +2,10 @@ owner: oklabflensburg
 repo: open-health-check
 
 sites:
+  - name: Open Data Day Flensburg
+    url: https://opendataday-flensburg.de
+    icon: https://opendataday-flensburg.de/favicon.ico
+
   - name: Schulen in Flensburg
     url: https://schulen-in-flensburg.de
     icon: https://schulen-in-flensburg.de/favicon.ico
