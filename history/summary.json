@@ -1,5 +1,23 @@
 [
   {
+    "name": "Open Data Day Flensburg",
+    "url": "https://opendataday-flensburg.de",
+    "icon": "https://opendataday-flensburg.de/favicon.ico",
+    "slug": "open-data-day-flensburg",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 540,
+    "timeDay": 540,
+    "timeWeek": 540,
+    "timeMonth": 540,
+    "timeYear": 540,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Schulen in Flensburg",
     "url": "https://schulen-in-flensburg.de",
     "icon": "https://schulen-in-flensburg.de/favicon.ico",
@@ -31,8 +49,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 471,
-    "timeDay": 590,
-    "timeWeek": 541,
+    "timeDay": 524,
+    "timeWeek": 532,
     "timeMonth": 470,
     "timeYear": 471,
     "dailyMinutesDown": {
@@ -51,9 +69,9 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.96%",
     "time": 520,
-    "timeDay": 591,
-    "timeWeek": 523,
-    "timeMonth": 483,
+    "timeDay": 523,
+    "timeWeek": 515,
+    "timeMonth": 482,
     "timeYear": 520,
     "dailyMinutesDown": {
       "2024-02-09": 15,
@@ -73,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 491,
-    "timeDay": 590,
-    "timeWeek": 552,
-    "timeMonth": 492,
+    "timeDay": 522,
+    "timeWeek": 541,
+    "timeMonth": 491,
     "timeYear": 491,
     "dailyMinutesDown": {
       "2023-11-18": 37
@@ -93,9 +111,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 485,
-    "timeDay": 562,
-    "timeWeek": 531,
-    "timeMonth": 488,
+    "timeDay": 508,
+    "timeWeek": 522,
+    "timeMonth": 487,
     "timeYear": 485,
     "dailyMinutesDown": {
       "2023-11-18": 37
@@ -113,9 +131,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 478,
-    "timeDay": 619,
-    "timeWeek": 520,
-    "timeMonth": 474,
+    "timeDay": 537,
+    "timeWeek": 513,
+    "timeMonth": 473,
     "timeYear": 478,
     "dailyMinutesDown": {
       "2023-11-18": 36
@@ -133,9 +151,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 453,
-    "timeDay": 590,
-    "timeWeek": 539,
-    "timeMonth": 479,
+    "timeDay": 522,
+    "timeWeek": 530,
+    "timeMonth": 478,
     "timeYear": 453,
     "dailyMinutesDown": {
       "2023-11-18": 36
@@ -147,16 +165,16 @@
     "icon": "https://oklabflensburg.de/favicon.ico",
     "slug": "website-des-ok-lab-flensburg",
     "status": "up",
-    "uptime": "98.58%",
+    "uptime": "98.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.58%",
-    "time": 2405,
-    "timeDay": 1305,
-    "timeWeek": 1215,
-    "timeMonth": 1254,
-    "timeYear": 2405,
+    "uptimeYear": "98.59%",
+    "time": 2397,
+    "timeDay": 1164,
+    "timeWeek": 1191,
+    "timeMonth": 1247,
+    "timeYear": 2397,
     "dailyMinutesDown": {
       "2023-12-17": 894,
       "2023-12-16": 1440,
@@ -175,8 +193,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 578,
-    "timeDay": 637,
-    "timeWeek": 623,
+    "timeDay": 603,
+    "timeWeek": 617,
     "timeMonth": 569,
     "timeYear": 578,
     "dailyMinutesDown": {
@@ -195,9 +213,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 450,
-    "timeDay": 487,
-    "timeWeek": 461,
-    "timeMonth": 428,
+    "timeDay": 430,
+    "timeWeek": 451,
+    "timeMonth": 426,
     "timeYear": 450,
     "dailyMinutesDown": {
       "2023-11-18": 35
@@ -215,9 +233,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 446,
-    "timeDay": 605,
-    "timeWeek": 513,
-    "timeMonth": 438,
+    "timeDay": 530,
+    "timeWeek": 507,
+    "timeMonth": 439,
     "timeYear": 446,
     "dailyMinutesDown": {
       "2023-11-18": 34
@@ -235,8 +253,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 432,
-    "timeDay": 430,
-    "timeWeek": 473,
+    "timeDay": 431,
+    "timeWeek": 468,
     "timeMonth": 433,
     "timeYear": 432,
     "dailyMinutesDown": {
@@ -255,9 +273,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 426,
-    "timeDay": 462,
-    "timeWeek": 430,
-    "timeMonth": 418,
+    "timeDay": 459,
+    "timeWeek": 433,
+    "timeMonth": 419,
     "timeYear": 426,
     "dailyMinutesDown": {
       "2023-11-18": 33
@@ -274,11 +292,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 454,
-    "timeDay": 441,
-    "timeWeek": 472,
-    "timeMonth": 419,
-    "timeYear": 454,
+    "time": 453,
+    "timeDay": 393,
+    "timeWeek": 457,
+    "timeMonth": 416,
+    "timeYear": 453,
     "dailyMinutesDown": {
       "2023-11-18": 33
     }
@@ -294,11 +312,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 528,
-    "timeDay": 597,
-    "timeWeek": 602,
-    "timeMonth": 541,
-    "timeYear": 528,
+    "time": 527,
+    "timeDay": 523,
+    "timeWeek": 585,
+    "timeMonth": 538,
+    "timeYear": 527,
     "dailyMinutesDown": {
       "2023-11-18": 32
     }
@@ -314,11 +332,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 498,
-    "timeDay": 599,
-    "timeWeek": 517,
-    "timeMonth": 481,
-    "timeYear": 498,
+    "time": 497,
+    "timeDay": 528,
+    "timeWeek": 510,
+    "timeMonth": 480,
+    "timeYear": 497,
     "dailyMinutesDown": {
       "2023-11-18": 32
     }
@@ -335,9 +353,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.42%",
     "time": 374,
-    "timeDay": 430,
-    "timeWeek": 400,
-    "timeMonth": 362,
+    "timeDay": 383,
+    "timeWeek": 393,
+    "timeMonth": 361,
     "timeYear": 374,
     "dailyMinutesDown": {
       "2023-11-18": 31,
@@ -358,9 +376,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 821,
-    "timeDay": 944,
-    "timeWeek": 909,
-    "timeMonth": 846,
+    "timeDay": 867,
+    "timeWeek": 896,
+    "timeMonth": 844,
     "timeYear": 821,
     "dailyMinutesDown": {
       "2023-11-18": 31
