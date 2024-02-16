@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 675,
-    "timeDay": 809,
-    "timeWeek": 675,
-    "timeMonth": 675,
-    "timeYear": 675,
+    "time": 726,
+    "timeDay": 829,
+    "timeWeek": 726,
+    "timeMonth": 726,
+    "timeYear": 726,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 473,
+    "time": 476,
     "timeDay": 651,
-    "timeWeek": 532,
-    "timeMonth": 479,
-    "timeYear": 473,
+    "timeWeek": 552,
+    "timeMonth": 488,
+    "timeYear": 476,
     "dailyMinutesDown": {
       "2024-02-09": 16
     }
@@ -64,17 +64,16 @@
     "slug": "baumkataster-flensburg",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.96%",
-    "time": 519,
-    "timeDay": 470,
-    "timeWeek": 491,
-    "timeMonth": 486,
-    "timeYear": 519,
+    "time": 520,
+    "timeDay": 471,
+    "timeWeek": 509,
+    "timeMonth": 492,
+    "timeYear": 520,
     "dailyMinutesDown": {
-      "2024-02-15": 6,
       "2024-02-09": 15,
       "2023-11-18": 38,
       "2023-11-16": 19
@@ -91,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 492,
+    "time": 493,
     "timeDay": 651,
-    "timeWeek": 541,
-    "timeMonth": 498,
-    "timeYear": 492,
+    "timeWeek": 563,
+    "timeMonth": 503,
+    "timeYear": 493,
     "dailyMinutesDown": {
       "2023-11-18": 37
     }
@@ -111,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 486,
-    "timeDay": 655,
-    "timeWeek": 525,
-    "timeMonth": 495,
-    "timeYear": 486,
+    "time": 487,
+    "timeDay": 650,
+    "timeWeek": 547,
+    "timeMonth": 501,
+    "timeYear": 487,
     "dailyMinutesDown": {
       "2023-11-18": 37
     }
@@ -131,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 479,
-    "timeDay": 651,
-    "timeWeek": 512,
-    "timeMonth": 481,
-    "timeYear": 479,
+    "time": 481,
+    "timeDay": 664,
+    "timeWeek": 535,
+    "timeMonth": 488,
+    "timeYear": 481,
     "dailyMinutesDown": {
       "2023-11-18": 36
     }
@@ -151,11 +150,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 455,
-    "timeDay": 659,
-    "timeWeek": 531,
-    "timeMonth": 487,
-    "timeYear": 455,
+    "time": 456,
+    "timeDay": 652,
+    "timeWeek": 552,
+    "timeMonth": 495,
+    "timeYear": 456,
     "dailyMinutesDown": {
       "2023-11-18": 36
     }
@@ -166,16 +165,16 @@
     "icon": "https://oklabflensburg.de/favicon.ico",
     "slug": "website-des-ok-lab-flensburg",
     "status": "up",
-    "uptime": "98.60%",
+    "uptime": "98.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.60%",
-    "time": 2391,
-    "timeDay": 1399,
-    "timeWeek": 1195,
-    "timeMonth": 1260,
-    "timeYear": 2391,
+    "uptimeYear": "98.61%",
+    "time": 2385,
+    "timeDay": 1391,
+    "timeWeek": 1245,
+    "timeMonth": 1266,
+    "timeYear": 2385,
     "dailyMinutesDown": {
       "2023-12-17": 894,
       "2023-12-16": 1440,
@@ -194,9 +193,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 580,
-    "timeDay": 788,
-    "timeWeek": 616,
-    "timeMonth": 578,
+    "timeDay": 651,
+    "timeWeek": 627,
+    "timeMonth": 584,
     "timeYear": 580,
     "dailyMinutesDown": {
       "2023-11-18": 35
@@ -213,11 +212,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 451,
+    "time": 453,
     "timeDay": 652,
-    "timeWeek": 470,
-    "timeMonth": 434,
-    "timeYear": 451,
+    "timeWeek": 491,
+    "timeMonth": 443,
+    "timeYear": 453,
     "dailyMinutesDown": {
       "2023-11-18": 35
     }
@@ -233,11 +232,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 447,
+    "time": 449,
     "timeDay": 650,
-    "timeWeek": 507,
-    "timeMonth": 450,
-    "timeYear": 447,
+    "timeWeek": 531,
+    "timeMonth": 459,
+    "timeYear": 449,
     "dailyMinutesDown": {
       "2023-11-18": 34
     }
@@ -253,11 +252,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 433,
-    "timeDay": 653,
-    "timeWeek": 468,
-    "timeMonth": 442,
-    "timeYear": 433,
+    "time": 435,
+    "timeDay": 652,
+    "timeWeek": 503,
+    "timeMonth": 451,
+    "timeYear": 435,
     "dailyMinutesDown": {
       "2023-11-18": 34
     }
@@ -273,11 +272,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 427,
-    "timeDay": 649,
-    "timeWeek": 433,
-    "timeMonth": 427,
-    "timeYear": 427,
+    "time": 429,
+    "timeDay": 656,
+    "timeWeek": 466,
+    "timeMonth": 436,
+    "timeYear": 429,
     "dailyMinutesDown": {
       "2023-11-18": 33
     }
@@ -294,9 +293,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 453,
-    "timeDay": 488,
-    "timeWeek": 439,
-    "timeMonth": 420,
+    "timeDay": 489,
+    "timeWeek": 456,
+    "timeMonth": 424,
     "timeYear": 453,
     "dailyMinutesDown": {
       "2023-11-18": 33
@@ -313,11 +312,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 528,
-    "timeDay": 645,
-    "timeWeek": 567,
-    "timeMonth": 546,
-    "timeYear": 528,
+    "time": 529,
+    "timeDay": 647,
+    "timeWeek": 576,
+    "timeMonth": 551,
+    "timeYear": 529,
     "dailyMinutesDown": {
       "2023-11-18": 32
     }
@@ -333,11 +332,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 499,
-    "timeDay": 652,
-    "timeWeek": 510,
-    "timeMonth": 488,
-    "timeYear": 499,
+    "time": 500,
+    "timeDay": 650,
+    "timeWeek": 531,
+    "timeMonth": 494,
+    "timeYear": 500,
     "dailyMinutesDown": {
       "2023-11-18": 32
     }
@@ -348,16 +347,16 @@
     "icon": "https://api.oklabflensburg.de/static/favicon.ico",
     "slug": "daten-schnittstelle-unfallkarte-flensburg",
     "status": "up",
-    "uptime": "98.44%",
+    "uptime": "98.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.44%",
-    "time": 374,
-    "timeDay": 484,
-    "timeWeek": 393,
-    "timeMonth": 367,
-    "timeYear": 374,
+    "uptimeYear": "98.45%",
+    "time": 375,
+    "timeDay": 485,
+    "timeWeek": 409,
+    "timeMonth": 372,
+    "timeYear": 375,
     "dailyMinutesDown": {
       "2023-11-18": 31,
       "2023-10-13": 1095,
@@ -376,11 +375,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 823,
-    "timeDay": 1111,
-    "timeWeek": 892,
-    "timeMonth": 857,
-    "timeYear": 823,
+    "time": 825,
+    "timeDay": 1140,
+    "timeWeek": 930,
+    "timeMonth": 868,
+    "timeYear": 825,
     "dailyMinutesDown": {
       "2023-11-18": 31
     }
