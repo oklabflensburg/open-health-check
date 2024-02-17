@@ -1,7 +1,7 @@
 url: https://api.oklabflensburg.de
-status: down
-code: 502
-responseTime: 305
-lastUpdated: 2024-02-17T17:39:19.394Z
+status: up
+code: 200
+responseTime: 472
+lastUpdated: 2024-02-17T18:04:38.272Z
 startTime: 2023-10-11T19:21:02.487Z
 generator: Upptime <https://github.com/upptime/upptime>
