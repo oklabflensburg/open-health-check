@@ -84,9 +84,9 @@
     "url": "https://denkmalschutz-flensburg.de",
     "icon": "https://denkmalschutz-flensburg.de/favicon.ico",
     "slug": "denkmalschutzliste-flensburg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -96,6 +96,7 @@
     "timeMonth": 494,
     "timeYear": 489,
     "dailyMinutesDown": {
+      "2024-02-23": 0,
       "2023-11-18": 37
     }
   },
@@ -348,11 +349,11 @@
     "icon": "https://api.oklabflensburg.de/static/favicon.ico",
     "slug": "daten-schnittstelle-unfallkarte-flensburg",
     "status": "up",
-    "uptime": "98.51%",
+    "uptime": "98.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "98.51%",
+    "uptimeYear": "98.52%",
     "time": 371,
     "timeDay": 277,
     "timeWeek": 309,
