@@ -67,8 +67,8 @@ sites:
     icon: https://website.oklabflensburg.de/favicon.ico
 
   - name: Unfallkarte Flensburg
-    url: https://open-accident-map.de
-    icon: https://open-accident-map.de/favicon.ico
+    url: https://unfallkarte.oklabflensburg.de
+    icon: https://unfallkarte.oklabflensburg.de/favicon.ico
 
   - name: Daten Schnittstelle Unfallkarte Flensburg
     url: https://api.oklabflensburg.de/accidents/v1/details
