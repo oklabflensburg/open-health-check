@@ -22,14 +22,6 @@ sites:
     url: https://denkmalschutz-flensburg.de
     icon: https://denkmalschutz-flensburg.de/favicon.ico
 
-  - name: Kommunalwahlkarte Schleswig-Holstein
-    url: https://kommunalwahl-schleswig-holstein.de
-    icon: https://kommunalwahl-schleswig-holstein.de/favicon.ico
-
-  - name: Wahllokale Kommunalwahl Schleswig-Holstein
-    url: https://wahllokale.kommunalwahl-schleswig-holstein.de
-    icon: https://wahllokale.kommunalwahl-schleswig-holstein.de/favicon.ico
-
   - name: Spielplatzkarte Flensburg
     url: https://spielplatzkarte.oklabflensburg.de
     icon: https://spielplatzkarte.oklabflensburg.de/favicon.ico
