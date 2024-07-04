@@ -34,6 +34,10 @@ sites:
     url: https://api.oklabflensburg.de
     icon: https://api.oklabflensburg.de/static/favicon.ico
 
+  - name: Schulen in Flensburg
+    url: https://schulen-in-flensburg.de
+    icon: https://schulen-in-flensburg.de/favicon.ico
+
   - name: Bodennutzungskarte Deutschland
     url: https://bodennutzung.oklabflensburg.de
     icon: https://bodennutzung.oklabflensburg.de/favicon.ico
