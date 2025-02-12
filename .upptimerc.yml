@@ -35,7 +35,7 @@ sites:
     icon: https://oklabflensburg.de/favicon.ico
 
   - name: Daten Schnittstelle des OK Lab Flensburg
-    url: https://api.oklabflensburg.de
+    url: https://api.oklabflensburg.de/docs
     icon: https://api.oklabflensburg.de/static/favicon.ico
 
   - name: Schulen in Flensburg
@@ -71,7 +71,7 @@ sites:
     icon: https://unfallkarte.oklabflensburg.de/favicon.ico
 
   - name: Daten Schnittstelle Unfallkarte Flensburg
-    url: https://api.oklabflensburg.de/accidents/v1/details
+    url: https://api.oklabflensburg.de/accident/v1/details
     icon: https://api.oklabflensburg.de/static/favicon.ico
     expectedStatusCodes:
       - 422
