@@ -6,6 +6,14 @@ sites:
     url: https://opendataday-flensburg.de
     icon: https://opendataday-flensburg.de/favicon.ico
 
+  - name: Digitale Biotopkarte für Schleswig-Holstein
+    url: https://biotopkarte.oklabflensburg.de
+    icon: https://biotopkarte.oklabflensburg.de/favicon.ico
+
+  - name: Flurstücksauskunft für Schleswig-Holstein
+    url: https://flurstuecksauskunft.oklabflensburg.de
+    icon: https://flurstuecksauskunft.oklabflensburg.de/favicon.ico
+
   - name: Kitafinder Flensburg
     url: https://kitas-in-flensburg.de
     icon: https://kitas-in-flensburg.de/favicon.ico
@@ -39,8 +47,8 @@ sites:
     icon: https://bodennutzung.oklabflensburg.de/favicon.ico
 
   - name: Nahverkehrskarte Flensburg
-    url: https://nahverkehr-flensburg.de
-    icon: https://nahverkehr-flensburg.de/favicon.ico
+    url: https://nahverkehr.oklabflensburg.de
+    icon: https://nahverkehr.oklabflensburg.de/favicon.ico
 
   - name: Recycling Standortkarte Flensburg
     url: https://recycling.oklabflensburg.de
@@ -54,9 +62,9 @@ sites:
     url: https://dev.sozialatlas.oklabflensburg.de
     icon: https://dev.sozialatlas.oklabflensburg.de/favicon.ico
 
-  - name: Website OK Lab Flensburg (Beta)
-    url: https://website.oklabflensburg.de
-    icon: https://website.oklabflensburg.de/favicon.ico
+  - name: Stadtplan Kulturnacht Flensburg
+    url: https://knf.grain.one
+    icon: https://knf.grain.one/favicon.ico
 
   - name: Unfallkarte Flensburg
     url: https://unfallkarte.oklabflensburg.de
@@ -67,10 +75,6 @@ sites:
     icon: https://api.oklabflensburg.de/static/favicon.ico
     expectedStatusCodes:
       - 422
-
-  - name: Sozialatlas Dashboard Flensburg (Alpha)
-    url: https://dev.sozialatlas-flensburg.de
-    icon: https://dev.sozialatlas-flensburg.de/favicon.ico
 
 status-website:
   name: Status OK Lab Flensburg
