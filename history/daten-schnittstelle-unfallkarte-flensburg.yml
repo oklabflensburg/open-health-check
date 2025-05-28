@@ -1,7 +1,7 @@
 url: https://api.oklabflensburg.de/accident/v1/details
-status: down
-code: 502
-responseTime: 413
-lastUpdated: 2025-05-28T18:40:51.774Z
+status: up
+code: 422
+responseTime: 372
+lastUpdated: 2025-05-28T18:51:36.499Z
 startTime: 2023-10-11T19:21:10.595Z
 generator: Upptime <https://github.com/upptime/upptime>
