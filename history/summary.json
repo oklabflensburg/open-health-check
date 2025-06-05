@@ -9,16 +9,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.09%",
-    "time": 633,
-    "timeDay": 611,
-    "timeWeek": 523,
+    "uptimeYear": "99.29%",
+    "time": 634,
+    "timeDay": 842,
+    "timeWeek": 571,
     "timeMonth": 565,
-    "timeYear": 626,
+    "timeYear": 627,
     "dailyMinutesDown": {
       "2024-06-07": 832,
-      "2024-06-06": 1440,
-      "2024-06-05": 1440
+      "2024-06-06": 1440
     }
   },
   {
@@ -32,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 501,
-    "timeDay": 520,
-    "timeWeek": 468,
+    "time": 503,
+    "timeDay": 690,
+    "timeWeek": 504,
     "timeMonth": 469,
-    "timeYear": 501,
+    "timeYear": 503,
     "dailyMinutesDown": {}
   },
   {
@@ -50,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 479,
-    "timeDay": 540,
-    "timeWeek": 437,
+    "time": 480,
+    "timeDay": 660,
+    "timeWeek": 470,
     "timeMonth": 443,
-    "timeYear": 479,
+    "timeYear": 480,
     "dailyMinutesDown": {}
   },
   {
@@ -67,17 +66,16 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.08%",
+    "uptimeYear": "99.29%",
     "time": 490,
-    "timeDay": 539,
-    "timeWeek": 434,
+    "timeDay": 653,
+    "timeWeek": 465,
     "timeMonth": 463,
     "timeYear": 494,
     "dailyMinutesDown": {
       "2024-12-09": 18,
       "2024-06-07": 826,
-      "2024-06-06": 1440,
-      "2024-06-05": 1440
+      "2024-06-06": 1440
     }
   },
   {
@@ -90,19 +88,18 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.78%",
-    "uptimeYear": "98.49%",
+    "uptimeYear": "98.69%",
     "time": 487,
-    "timeDay": 524,
-    "timeWeek": 447,
+    "timeDay": 682,
+    "timeWeek": 486,
     "timeMonth": 477,
-    "timeYear": 493,
+    "timeYear": 494,
     "dailyMinutesDown": {
       "2025-05-21": 937,
       "2025-05-20": 1440,
       "2025-05-19": 784,
       "2024-06-07": 826,
-      "2024-06-06": 1440,
-      "2024-06-05": 1440
+      "2024-06-06": 1440
     }
   },
   {
@@ -111,22 +108,21 @@
     "icon": "https://denkmalschutz-flensburg.de/favicon.ico",
     "slug": "denkmalschutzliste-flensburg",
     "status": "up",
-    "uptime": "99.43%",
+    "uptime": "99.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.08%",
-    "time": 601,
-    "timeDay": 838,
-    "timeWeek": 1882,
-    "timeMonth": 1351,
-    "timeYear": 651,
+    "uptimeYear": "99.28%",
+    "time": 603,
+    "timeDay": 979,
+    "timeWeek": 845,
+    "timeMonth": 1352,
+    "timeYear": 652,
     "dailyMinutesDown": {
       "2025-04-15": 42,
       "2025-04-07": 19,
       "2024-06-07": 826,
-      "2024-06-06": 1440,
-      "2024-06-05": 1440
+      "2024-06-06": 1440
     }
   },
   {
@@ -139,16 +135,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.09%",
+    "uptimeYear": "99.30%",
     "time": 488,
-    "timeDay": 501,
-    "timeWeek": 429,
-    "timeMonth": 436,
-    "timeYear": 493,
+    "timeDay": 660,
+    "timeWeek": 461,
+    "timeMonth": 441,
+    "timeYear": 494,
     "dailyMinutesDown": {
       "2024-06-07": 827,
-      "2024-06-06": 1440,
-      "2024-06-05": 1440
+      "2024-06-06": 1440
     }
   },
   {
@@ -163,10 +158,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.73%",
     "time": 1237,
-    "timeDay": 1125,
-    "timeWeek": 1552,
-    "timeMonth": 1367,
-    "timeYear": 1266,
+    "timeDay": 1281,
+    "timeWeek": 1582,
+    "timeMonth": 1371,
+    "timeYear": 1267,
     "dailyMinutesDown": {
       "2025-04-15": 24,
       "2025-04-07": 38,
@@ -195,16 +190,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.09%",
+    "uptimeYear": "99.30%",
     "time": 558,
-    "timeDay": 491,
-    "timeWeek": 396,
-    "timeMonth": 419,
+    "timeDay": 656,
+    "timeWeek": 443,
+    "timeMonth": 423,
     "timeYear": 555,
     "dailyMinutesDown": {
       "2024-06-07": 827,
-      "2024-06-06": 1440,
-      "2024-06-05": 1440
+      "2024-06-06": 1440
     }
   },
   {
@@ -213,11 +207,11 @@
     "icon": "https://schulen-in-flensburg.de/favicon.ico",
     "slug": "schulen-in-flensburg",
     "status": "up",
-    "uptime": "99.34%",
+    "uptime": "99.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.08%",
+    "uptimeYear": "99.29%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -227,8 +221,7 @@
       "2025-04-15": 18,
       "2024-12-09": 18,
       "2024-06-07": 826,
-      "2024-06-06": 1440,
-      "2024-06-05": 1440
+      "2024-06-06": 1440
     }
   },
   {
@@ -241,16 +234,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.09%",
+    "uptimeYear": "99.30%",
     "time": 455,
-    "timeDay": 527,
-    "timeWeek": 422,
-    "timeMonth": 419,
-    "timeYear": 457,
+    "timeDay": 530,
+    "timeWeek": 430,
+    "timeMonth": 414,
+    "timeYear": 458,
     "dailyMinutesDown": {
       "2024-06-07": 827,
-      "2024-06-06": 1440,
-      "2024-06-05": 1440
+      "2024-06-06": 1440
     }
   },
   {
@@ -263,11 +255,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.77%",
-    "time": 466,
-    "timeDay": 387,
-    "timeWeek": 371,
-    "timeMonth": 410,
+    "uptimeYear": "95.98%",
+    "time": 465,
+    "timeDay": 579,
+    "timeWeek": 379,
+    "timeMonth": 406,
     "timeYear": 465,
     "dailyMinutesDown": {
       "2025-02-12": 941,
@@ -284,8 +276,7 @@
       "2025-02-01": 1440,
       "2025-01-31": 652,
       "2024-06-07": 827,
-      "2024-06-06": 1440,
-      "2024-06-05": 1440
+      "2024-06-06": 1440
     }
   },
   {
@@ -298,16 +289,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.09%",
+    "uptimeYear": "99.30%",
     "time": 449,
-    "timeDay": 397,
-    "timeWeek": 374,
+    "timeDay": 518,
+    "timeWeek": 386,
     "timeMonth": 395,
     "timeYear": 453,
     "dailyMinutesDown": {
       "2024-06-07": 827,
-      "2024-06-06": 1440,
-      "2024-06-05": 1440
+      "2024-06-06": 1440
     }
   },
   {
@@ -320,16 +310,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.09%",
-    "time": 443,
-    "timeDay": 434,
-    "timeWeek": 403,
-    "timeMonth": 421,
-    "timeYear": 446,
+    "uptimeYear": "99.30%",
+    "time": 444,
+    "timeDay": 689,
+    "timeWeek": 443,
+    "timeMonth": 422,
+    "timeYear": 447,
     "dailyMinutesDown": {
       "2024-06-07": 827,
-      "2024-06-06": 1440,
-      "2024-06-05": 1440
+      "2024-06-06": 1440
     }
   },
   {
@@ -342,16 +331,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.09%",
+    "uptimeYear": "99.30%",
     "time": 440,
-    "timeDay": 495,
-    "timeWeek": 374,
+    "timeDay": 516,
+    "timeWeek": 398,
     "timeMonth": 398,
-    "timeYear": 433,
+    "timeYear": 434,
     "dailyMinutesDown": {
       "2024-06-07": 827,
-      "2024-06-06": 1440,
-      "2024-06-05": 1440
+      "2024-06-06": 1440
     }
   },
   {
@@ -365,11 +353,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 570,
-    "timeDay": 746,
-    "timeWeek": 487,
-    "timeMonth": 506,
-    "timeYear": 570,
+    "time": 571,
+    "timeDay": 666,
+    "timeWeek": 510,
+    "timeMonth": 505,
+    "timeYear": 571,
     "dailyMinutesDown": {}
   },
   {
@@ -378,20 +366,19 @@
     "icon": "https://unfallkarte.oklabflensburg.de/favicon.ico",
     "slug": "unfallkarte-flensburg",
     "status": "up",
-    "uptime": "95.40%",
+    "uptime": "95.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.09%",
+    "uptimeYear": "99.30%",
     "time": 424,
-    "timeDay": 410,
-    "timeWeek": 383,
+    "timeDay": 516,
+    "timeWeek": 396,
     "timeMonth": 389,
     "timeYear": 418,
     "dailyMinutesDown": {
       "2024-06-07": 826,
-      "2024-06-06": 1440,
-      "2024-06-05": 1440
+      "2024-06-06": 1440
     }
   },
   {
@@ -400,14 +387,14 @@
     "icon": "https://api.oklabflensburg.de/static/favicon.ico",
     "slug": "daten-schnittstelle-unfallkarte-flensburg",
     "status": "up",
-    "uptime": "90.77%",
+    "uptime": "90.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.35%",
+    "uptimeYear": "85.56%",
     "time": 367,
-    "timeDay": 381,
-    "timeWeek": 337,
+    "timeDay": 512,
+    "timeWeek": 349,
     "timeMonth": 345,
     "timeYear": 373,
     "dailyMinutesDown": {
@@ -463,8 +450,7 @@
       "2024-12-25": 1440,
       "2024-12-24": 707,
       "2024-06-07": 826,
-      "2024-06-06": 1440,
-      "2024-06-05": 1440
+      "2024-06-06": 1440
     }
   }
 ]
