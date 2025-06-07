@@ -9,15 +9,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.57%",
-    "time": 633,
-    "timeDay": 503,
-    "timeWeek": 571,
-    "timeMonth": 565,
+    "uptimeYear": "99.84%",
+    "time": 634,
+    "timeDay": 726,
+    "timeWeek": 605,
+    "timeMonth": 571,
     "timeYear": 627,
-    "dailyMinutesDown": {
-      "2024-06-07": 832
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Digitale Biotopkarte für Schleswig-Holstein",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 502,
-    "timeDay": 420,
-    "timeWeek": 508,
-    "timeMonth": 469,
-    "timeYear": 502,
+    "time": 504,
+    "timeDay": 642,
+    "timeWeek": 541,
+    "timeMonth": 477,
+    "timeYear": 504,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 480,
-    "timeDay": 418,
-    "timeWeek": 471,
-    "timeMonth": 442,
-    "timeYear": 480,
+    "time": 481,
+    "timeDay": 624,
+    "timeWeek": 505,
+    "timeMonth": 452,
+    "timeYear": 481,
     "dailyMinutesDown": {}
   },
   {
@@ -61,19 +59,18 @@
     "icon": "https://kitas-in-flensburg.de/favicon.ico",
     "slug": "kitafinder-flensburg",
     "status": "up",
-    "uptime": "99.38%",
+    "uptime": "99.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.84%",
     "time": 489,
-    "timeDay": 395,
-    "timeWeek": 461,
-    "timeMonth": 462,
+    "timeDay": 630,
+    "timeWeek": 494,
+    "timeMonth": 468,
     "timeYear": 494,
     "dailyMinutesDown": {
-      "2024-12-09": 18,
-      "2024-06-07": 826
+      "2024-12-09": 18
     }
   },
   {
@@ -86,17 +83,16 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.78%",
-    "uptimeYear": "98.97%",
-    "time": 486,
-    "timeDay": 419,
-    "timeWeek": 488,
-    "timeMonth": 477,
-    "timeYear": 493,
+    "uptimeYear": "99.24%",
+    "time": 487,
+    "timeDay": 592,
+    "timeWeek": 513,
+    "timeMonth": 481,
+    "timeYear": 494,
     "dailyMinutesDown": {
       "2025-05-21": 937,
       "2025-05-20": 1440,
-      "2025-05-19": 784,
-      "2024-06-07": 826
+      "2025-05-19": 784
     }
   },
   {
@@ -109,16 +105,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.56%",
-    "time": 604,
-    "timeDay": 784,
-    "timeWeek": 842,
-    "timeMonth": 1350,
-    "timeYear": 652,
+    "uptimeYear": "99.83%",
+    "time": 605,
+    "timeDay": 1038,
+    "timeWeek": 871,
+    "timeMonth": 1356,
+    "timeYear": 654,
     "dailyMinutesDown": {
       "2025-04-15": 42,
-      "2025-04-07": 19,
-      "2024-06-07": 826
+      "2025-04-07": 19
     }
   },
   {
@@ -131,15 +126,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.84%",
     "time": 488,
-    "timeDay": 406,
-    "timeWeek": 450,
-    "timeMonth": 441,
+    "timeDay": 610,
+    "timeWeek": 478,
+    "timeMonth": 447,
     "timeYear": 494,
-    "dailyMinutesDown": {
-      "2024-06-07": 827
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Website des OK Lab Flensburg",
@@ -153,9 +146,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.73%",
     "time": 1237,
-    "timeDay": 1148,
-    "timeWeek": 1545,
-    "timeMonth": 1367,
+    "timeDay": 1152,
+    "timeWeek": 1562,
+    "timeMonth": 1374,
     "timeYear": 1267,
     "dailyMinutesDown": {
       "2025-04-15": 24,
@@ -185,15 +178,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.84%",
     "time": 556,
-    "timeDay": 330,
-    "timeWeek": 430,
-    "timeMonth": 423,
+    "timeDay": 460,
+    "timeWeek": 438,
+    "timeMonth": 427,
     "timeYear": 554,
-    "dailyMinutesDown": {
-      "2024-06-07": 827
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Schulen in Flensburg",
@@ -205,7 +196,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.56%",
+    "uptimeYear": "99.84%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -213,8 +204,7 @@
     "timeYear": 0,
     "dailyMinutesDown": {
       "2025-04-15": 18,
-      "2024-12-09": 18,
-      "2024-06-07": 826
+      "2024-12-09": 18
     }
   },
   {
@@ -227,15 +217,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.57%",
-    "time": 454,
-    "timeDay": 427,
-    "timeWeek": 432,
-    "timeMonth": 414,
-    "timeYear": 457,
-    "dailyMinutesDown": {
-      "2024-06-07": 827
-    }
+    "uptimeYear": "99.84%",
+    "time": 455,
+    "timeDay": 499,
+    "timeWeek": 447,
+    "timeMonth": 419,
+    "timeYear": 458,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nahverkehrskarte Flensburg",
@@ -247,11 +235,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.25%",
+    "uptimeYear": "96.53%",
     "time": 465,
-    "timeDay": 338,
-    "timeWeek": 382,
-    "timeMonth": 402,
+    "timeDay": 457,
+    "timeWeek": 403,
+    "timeMonth": 403,
     "timeYear": 464,
     "dailyMinutesDown": {
       "2025-02-12": 941,
@@ -266,8 +254,7 @@
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
-      "2025-01-31": 652,
-      "2024-06-07": 827
+      "2025-01-31": 652
     }
   },
   {
@@ -276,19 +263,17 @@
     "icon": "https://recycling.oklabflensburg.de/favicon.ico",
     "slug": "recycling-standortkarte-flensburg",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.84%",
     "time": 449,
-    "timeDay": 425,
-    "timeWeek": 399,
-    "timeMonth": 394,
+    "timeDay": 476,
+    "timeWeek": 407,
+    "timeMonth": 396,
     "timeYear": 453,
-    "dailyMinutesDown": {
-      "2024-06-07": 827
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sozialatlas Dashboard Flensburg",
@@ -296,19 +281,17 @@
     "icon": "https://sozialatlas.oklabflensburg.de/favicon.ico",
     "slug": "sozialatlas-dashboard-flensburg",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.57%",
-    "time": 443,
-    "timeDay": 404,
-    "timeWeek": 440,
-    "timeMonth": 421,
+    "uptimeYear": "99.84%",
+    "time": 444,
+    "timeDay": 457,
+    "timeWeek": 461,
+    "timeMonth": 423,
     "timeYear": 447,
-    "dailyMinutesDown": {
-      "2024-06-07": 827
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sozialatlas Dashboard Flensburg (Beta)",
@@ -316,19 +299,17 @@
     "icon": "https://dev.sozialatlas.oklabflensburg.de/favicon.ico",
     "slug": "sozialatlas-dashboard-flensburg-beta",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.84%",
     "time": 439,
-    "timeDay": 317,
-    "timeWeek": 397,
-    "timeMonth": 397,
+    "timeDay": 461,
+    "timeWeek": 419,
+    "timeMonth": 402,
     "timeYear": 433,
-    "dailyMinutesDown": {
-      "2024-06-07": 827
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Stadtplan Kulturnacht Flensburg",
@@ -341,11 +322,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 569,
-    "timeDay": 407,
-    "timeWeek": 492,
-    "timeMonth": 501,
-    "timeYear": 569,
+    "time": 570,
+    "timeDay": 619,
+    "timeWeek": 523,
+    "timeMonth": 507,
+    "timeYear": 570,
     "dailyMinutesDown": {}
   },
   {
@@ -354,19 +335,17 @@
     "icon": "https://unfallkarte.oklabflensburg.de/favicon.ico",
     "slug": "unfallkarte-flensburg",
     "status": "up",
-    "uptime": "95.41%",
+    "uptime": "95.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.84%",
     "time": 423,
-    "timeDay": 325,
-    "timeWeek": 385,
-    "timeMonth": 388,
+    "timeDay": 459,
+    "timeWeek": 404,
+    "timeMonth": 392,
     "timeYear": 418,
-    "dailyMinutesDown": {
-      "2024-06-07": 826
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Daten Schnittstelle Unfallkarte Flensburg",
@@ -374,15 +353,15 @@
     "icon": "https://api.oklabflensburg.de/static/favicon.ico",
     "slug": "daten-schnittstelle-unfallkarte-flensburg",
     "status": "up",
-    "uptime": "90.80%",
+    "uptime": "90.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.83%",
+    "uptimeYear": "86.10%",
     "time": 367,
-    "timeDay": 308,
-    "timeWeek": 349,
-    "timeMonth": 345,
+    "timeDay": 463,
+    "timeWeek": 372,
+    "timeMonth": 349,
     "timeYear": 373,
     "dailyMinutesDown": {
       "2025-02-12": 946,
@@ -435,8 +414,7 @@
       "2024-12-27": 1440,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
-      "2024-12-24": 707,
-      "2024-06-07": 826
+      "2024-12-24": 707
     }
   }
 ]
