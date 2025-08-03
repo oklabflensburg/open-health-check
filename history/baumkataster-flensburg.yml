@@ -1,7 +1,7 @@
 url: https://baumkataster-flensburg.de
-status: up
-code: 200
-responseTime: 1735
-lastUpdated: 2025-08-03T17:22:21.769Z
+status: down
+code: 504
+responseTime: 11090
+lastUpdated: 2025-08-03T18:04:23.839Z
 startTime: 2023-10-11T19:20:55.121Z
 generator: Upptime <https://github.com/upptime/upptime>
