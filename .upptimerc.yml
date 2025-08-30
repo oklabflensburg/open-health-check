@@ -19,12 +19,12 @@ sites:
     icon: https://kitas-in-flensburg.de/favicon.ico
 
   - name: Baumkataster Flensburg
-    url: https://baumkataster-flensburg.de
-    icon: https://baumkataster-flensburg.de/favicon.ico
+    url: https://baumkataster.oklabflensburg.de
+    icon: https://baumkataster.oklabflensburg.de/favicon.ico
 
   - name: Denkmalschutzliste Flensburg
-    url: https://denkmalschutz-flensburg.de
-    icon: https://denkmalschutz-flensburg.de/favicon.ico
+    url: https://denkmalkarte.oklabflensburg.de
+    icon: https://denkmalkarte.oklabflensburg.de/favicon.ico
 
   - name: Spielplatzkarte Flensburg
     url: https://spielplatzkarte.oklabflensburg.de
