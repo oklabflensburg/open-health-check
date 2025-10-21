@@ -5,7 +5,7 @@
     "icon": "https://opendataday-flensburg.de/favicon.ico",
     "slug": "open-data-day-flensburg",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -236,9 +236,9 @@
     "url": "https://schulen-in-flensburg.de",
     "icon": "https://schulen-in-flensburg.de/favicon.ico",
     "slug": "schulen-in-flensburg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -248,6 +248,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2025-10-21": 0,
       "2025-09-03": 110,
       "2025-04-15": 18,
       "2024-12-09": 18
